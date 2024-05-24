@@ -1,0 +1,3 @@
+hola, esto es un archivo txt
+el gran max me esta enseñando
+a como usar git
